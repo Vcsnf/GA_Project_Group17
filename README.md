@@ -1,6 +1,6 @@
 # GA_Project_Group17
 
-This is the project for the course Genome Analysis of Helen, Tika, Josse and Victor. We were not able to knit the markdown files because of conflicting versions of the rlang package, so we provided the markdown files themselves.
+This is the project of Helen, Tika, Josse and Victor for the course Genome Analysis. We were not able to knit the markdown files because of conflicting versions of the rlang package, so we provided the markdown files themselves.
 
 This repository contains:
 - A README file
